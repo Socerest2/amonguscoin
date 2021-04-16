@@ -1,8 +1,6 @@
-# Dogecoin Core [DOGE, Ð]
+# Among Us Coin Core [AMOGUS]
 
-![Dogecoin](https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
-
-[![Build Status](https://travis-ci.com/dogecoin/dogecoin.svg?branch=master)](https://travis-ci.com/dogecoin/dogecoin)
+![AMOGUS](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteamlists.com%2Fwp-content%2Fuploads%2F2020%2F11%2Famong-us-why-you-never-trust-red-0-steamlists-com-ed2e2-e1605847418981.jpg&f=1&nofb=1)
 
 Dogecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as
 its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
