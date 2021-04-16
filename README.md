@@ -2,12 +2,12 @@
 
 ![AMOGUS](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteamlists.com%2Fwp-content%2Fuploads%2F2020%2F11%2Famong-us-why-you-never-trust-red-0-steamlists-com-ed2e2-e1605847418981.jpg&f=1&nofb=1)
 
-Dogecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as
-its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
+Among Us Coin is a cryptocurrency like Bitcoin, although it does not use SHA256 as
+its proof of work (POW). It's forked from dogecoin. Taking development cues from Tenebrix and Litecoin,
 Dogecoin currently employs a simplified variant of scrypt.
-- **Website:** [dogecoin.com.](https://dogecoin.com)
+- **Website:** WIP
 
-## License – Much license ⚖️
+## License – Sussy License ⚖️
 Dogecoin Core is released under the terms of the MIT license. See
 [COPYING](COPYING) for more information or see
 [opensource.org](https://opensource.org/licenses/MIT)
@@ -20,17 +20,6 @@ bug fixes are ready.
 #### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
 
-#### Branches
-There are 3 types of branches in this repository:
-
-- **master:** Stable, contains the latest version of the latest *major.minor* release.
-- **maintenance:** Stable, contains the latest version of previous releases, which are still under active maintenance. Format: ```<version>-maint```
-- **development:** Unstable, contains new code for planned releases. Format: ```<version>-dev```
-
-*Master and maintenance branches are exclusively mutable by release. Planned*
-*releases will always have a development branch and pull requests should be*
-*submitted against those. Maintenance branches are there for **bug fixes only,***
-*please submit new features against the development branch with the highest version.*
 
 #### Contributions ✍️
 
@@ -50,12 +39,8 @@ not straightforward.
 
 ## Very Much Frequently Asked Questions ❓
 
-### How much doge can exist? – So many puppies! 🐕
-Early 2015 (approximately a year and a half after release) there will be
-approximately 100,000,000,000 coins.
-Each subsequent block will grant 10,000 coins to encourage miners to continue to
-secure the network and make up for lost wallets on hard drives/phones/lost
-encryption passwords/etc.
+### How much sussy coins can exist? – So many puppies! 🐕
+Right Now - None
 
 
 ### Such mining information ⛏
