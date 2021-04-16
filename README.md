@@ -39,7 +39,7 @@ not straightforward.
 
 ## Very Much Frequently Asked Questions ❓
 
-### How much sussy coins can exist? – So many puppies! 🐕
+### How much sussy coins can exist? – So much sussyness 🐕
 Right Now - None
 
 
